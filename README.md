@@ -1,6 +1,6 @@
 # Streamlit-based Web Application
 #### EXPLORE Data Science Academy Classification Predict
-
+#### Climate Change Belief Analysis
 ## 1) Overview
 
 ![Streamlit](resources/imgs/streamlit.png)
